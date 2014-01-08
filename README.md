@@ -1,0 +1,4 @@
+AutomaticHouseNewsletter
+========================
+
+Email marketing project
